@@ -1,4 +1,4 @@
-# Let-s-Chat-application
+# Let's-Chat-application
 It is a chatting web application created using react JS and Firebase.
 
 # Check Out Let's Chat 👇
